@@ -1,0 +1,4 @@
+packag main
+func main(\) {
+	fmtPrintln("Helo orld!")
+}
