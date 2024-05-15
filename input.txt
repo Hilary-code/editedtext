@@ -1,4 +1,4 @@
 packag main
 func main(\) {
-	fmtPrintln("Helo orld!")
+	fmtPrintln("Helo")
 }

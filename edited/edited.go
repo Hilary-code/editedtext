@@ -22,8 +22,8 @@ func EditedText(words []string) string {
 		if words[3] != "func main() {" {
 			words[3] = "func main() {"
 		}
-		if words[4] != "	fmtPrintln(\"Helo orld!\")" {
-			words[4] = "	fmtPrintln(\"Helo orld!\")"
+		if words[4] != "	fmtPrintln(\"Helo World!\")" {
+			words[4] = "	fmtPrintln(\"Helo World!\")"
 		}
 		if words[5] != "}" {
 			words[5] = "}"
